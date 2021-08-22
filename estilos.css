@@ -1,0 +1,67 @@
+
+html{
+	scroll-behavior: smooth;
+}
+
+
+div#bienvenida{
+font-family: calibri;
+background-color: lightgreen}
+
+
+#presentacion{
+	font-family: lato;
+}
+
+#menu ul{list-style:none ;
+	margin: 0;
+    padding: 0;
+font-family: woodland;
+flex-wrap:wrap;}
+
+ #menu ul li{
+
+ 	display: inline-block;
+   width: 300px;
+   height: 50px;
+   background-color: black;
+}
+
+#menu ul li a{
+  color: white;
+  display: block;
+  text-decoration: none;
+  padding: 10px 10px;
+}
+
+#menu ul li a:hover{
+	background-color: orange;
+	height:30px;
+} 
+
+main #contenido{
+	font-family: calibri;
+}
+
+main #contenido a{
+	text-decoration: none;
+
+}
+
+.div_img{
+	margin-top: 100px;
+	display: flex;
+	justify-content: space-between;
+
+}
+	
+.yo{
+	display: inline-block;
+}
+
+.container{
+	background-color: black;
+	color:white;
+	text-align: center;
+	height: 70px;
+}
