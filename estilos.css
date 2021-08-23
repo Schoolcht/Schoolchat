@@ -8,6 +8,9 @@ div#bienvenida{
 font-family: calibri;
 background-color: lightgreen}
 
+.icono{
+	text-align: center;
+}
 
 #presentacion{
 	font-family: lato;
